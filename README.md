@@ -1,2 +1,1 @@
-# imc_calculator
- 
+This is a typical IMC Calculator with a very simple graphical interface using Tkinter. You can also use a message box from Tkinter or something similar to display the result.
